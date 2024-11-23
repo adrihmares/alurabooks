@@ -1,0 +1,16 @@
+.carrossel__titulo {
+  font-size: 2rem;
+  color: #d4af37;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.swiper-slide img {
+  max-height: 200px;
+  display: block;
+  margin: auto;
+}
+
+.swiper-pagination-bullet-active {
+  background-color: #d4af37;
+}
