@@ -1,0 +1,26 @@
+.banner {
+  background-image: url('img/BannerCorinthians.jpg');
+  background-size: cover;
+  background-position: center;
+  padding: 50px 20px;
+  text-align: center;
+}
+
+.banner__titulo {
+  font-size: 2.5rem;
+  color: #d4af37;
+}
+
+.banner__texto {
+  font-size: 1.2rem;
+  color: white;
+}
+
+.banner__pesquisa {
+  margin-top: 15px;
+  padding: 10px;
+  width: 50%;
+  background: #1c1c1c;
+  color: white;
+  border-radius: 5px;
+}
