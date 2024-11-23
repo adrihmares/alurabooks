@@ -1,0 +1,11 @@
+.rodapé {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 20px;
+  border-top: 3px solid #d4af37;
+}
+
+.rodapé__titulo {
+  color: #d4af37;
+}
