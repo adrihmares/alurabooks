@@ -1,0 +1,19 @@
+.tópicos {
+  background-color: black;
+  padding: 20px;
+  color: white;
+}
+
+.tópicos__titulo {
+  text-align: center;
+  color: #d4af37;
+}
+
+.tópicos__lista li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.tópicos__lista a:hover {
+  color: #d4af37;
+}
