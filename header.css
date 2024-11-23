@@ -1,0 +1,33 @@
+<header class="cabeçalho">
+  <div class="container">
+    <img src="img/CorinthiansLogo.png" alt="Logo do Corinthians" class="container__imagem">
+    <h1 class="container__titulo">Corinthians Books</h1>
+    <nav>
+      <ul class="lista-menu">
+        <li><a href="#">Início</a></li>
+        <li><a href="#">Categorias</a></li>
+        <li><a href="#">Favoritos</a></li>
+        <li><a href="#">Minha Estante</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+```
+
+**CSS específico:**
+
+```css
+.cabeçalho {
+  background-color: black;
+  border-bottom: 3px solid #d4af37;
+  padding: 10px 20px;
+}
+
+.lista-menu li {
+  display: inline;
+  margin: 0 10px;
+}
+
+.lista-menu a:hover {
+  color: #d4af37;
+}
